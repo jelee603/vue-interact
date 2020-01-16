@@ -1,6 +1,10 @@
 # vue-interact
 
-## Project setup
+### Preview 
+`interact.js` 를 이용한 Resizing 구현
+https://interactjs.io/
+
+### Project setup
 ```
 npm install
 ```
@@ -9,16 +13,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
